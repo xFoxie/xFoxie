@@ -1,6 +1,6 @@
 <h3 align="center">I know a bit c# and I make gorilla tag mods</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
