@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fox</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I know a little c#</h3>
 
 
