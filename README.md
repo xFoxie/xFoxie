@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I know a little c#</h3>
+<h3 align="center">I know a bit c# and I make gorilla tag mods</h3>
 
 
 
