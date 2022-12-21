@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">I know a bit c# and I make gorilla tag mods</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xfoxie&label=Profile%20views&color=0e75b6&style=flat" alt="xfoxie" /> </p>
+
 
 
 <p align="left">
