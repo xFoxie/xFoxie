@@ -4,7 +4,7 @@
 
 
 
-<p align="left">
+
 </p>
 
 <h3 align="left">Languages I know:</h3>
